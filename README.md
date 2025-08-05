@@ -17,4 +17,4 @@
 
 ### Links
 
-- Live Site URL: [@Netlify]()
+- Live Site URL: [@Netlify](https://simplelandingx.netlify.app/)
